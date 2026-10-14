@@ -76,7 +76,7 @@ Use it if you want an 18+ futa character you can talk to in the browser, and you
 
 <div align="center">
 
-<a href="https://chubby-gf.com/futa"><img src="./start-chat.png" width="100" alt="Start chat" style="border-radius:10px"></a>
+<a href="https://chubby-gf.com/futa"><img src="./start-chat.png" width="100" alt="Start chat" style="border-radius:10px !important;"></a>
 
 </div>
 
